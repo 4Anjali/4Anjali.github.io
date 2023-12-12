@@ -30,6 +30,35 @@ const MAX = {
         ]
     },
     content: {
+        research: {
+            highlightAuthor: 'A. Sharma',
+            publications: [
+                {
+                    title: 'The Good, the Bad and the Ugly: An Open Image Dataset for Automated Sorting of Good, Bad, and Imperfect Produce.',
+                    authors: ['A. Sharma', 'Dr. V. Kumar', 'Dr. L.P. Musunur'],
+                    link: 'https://osf.io/epwq9',
+                    award: 'Under Second Round Review at Sustainability Journal'
+                },
+                {
+                    title: 'Online Appendix to Imperfect Foods Paper-list of Articles from Literature Review',
+                    authors: ['A. Sharma'],
+                    link: 'https://osf.io/m5tyw',
+                    award: 'OSF Preprints. 2023'
+                },    
+                {
+                    title: 'Using Generative Art from Brain Signals for Enabling Self Expression in the Differently Abled',
+                    authors: ['A. Sharma', 'A. Kushagra'],
+                    link: 'https://osf.io/nf3cr',
+                    award: 'OSF Preprints. 2022'
+                },
+                {
+                    title: 'Artificial Intelligence and Robotics for Reducing Waste in the Food Supply Chain: Systematic Literature Review,Theoretical Framework, and Research Agenda',
+                    authors: ['A. Sharma', 'Dr. P.V. Singh', 'Dr. L.P. Musunur'],
+                    link: 'https://osf.io/7kbu3',
+                    award: 'OSF Preprints. 2023'
+                } 
+            ]
+        },
         work: [
             {
                 when: ['09/21', 'present'],
@@ -62,35 +91,7 @@ const MAX = {
                 link: 'https://web.archive.org/web/20130215000000*/http://www.bluekiwi.de/'
             }
         ],
-        research: {
-            highlightAuthor: 'A. Sharma',
-            publications: [
-                {
-                    title: 'The Good, the Bad and the Ugly: An Open Image Dataset for Automated Sorting of Good, Bad, and Imperfect Produce.',
-                    authors: ['A. Sharma', 'Dr. V. Kumar', 'Dr. L.P. Musunur'],
-                    link: 'https://osf.io/epwq9',
-                    award: 'Under Second Round Review at Sustainability Journal'
-                },
-                {
-                    title: 'Online Appendix to Imperfect Foods Paper-list of Articles from Literature Review',
-                    authors: ['A. Sharma'],
-                    link: 'https://osf.io/m5tyw',
-                    award: 'OSF Preprints. 2023'
-                },    
-                {
-                    title: 'Using Generative Art from Brain Signals for Enabling Self Expression in the Differently Abled',
-                    authors: ['A. Sharma', 'A. Kushagra'],
-                    link: 'https://osf.io/nf3cr',
-                    award: 'OSF Preprints. 2022'
-                },
-                {
-                    title: 'Artificial Intelligence and Robotics for Reducing Waste in the Food Supply Chain: Systematic Literature Review,Theoretical Framework, and Research Agenda',
-                    authors: ['A. Sharma', 'Dr. P.V. Singh', 'Dr. L.P. Musunur'],
-                    link: 'https://osf.io/7kbu3',
-                    award: 'OSF Preprints. 2023'
-                } 
-            ]
-        },
+   
         writing: [
             {
                 title: 'An Actionable And Reliable Usability Questionnaire With Only 7 Items: §Inuit§',
