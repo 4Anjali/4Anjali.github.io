@@ -59,7 +59,7 @@ const MAX = {
                 when: ['06/12', '12/14'],
                 where: 'Unister',
                 what: ['Researcher', 'Ph.D. Student'],
-                link: 'https://web.archive.org/web/20130215000000*/http://www.bluekiwi.de/'
+                link: 'https://web.archive.org/web/20130215000000http://www.bluekiwi.de/'
             }*/
         ],
    
