@@ -76,13 +76,13 @@ const MAX = {
                     authors: ['A. Sharma'],
                     link: 'https://osf.io/m5tyw',
                     award: 'OSF Preprints. 2023'
-                },            
+                },    
                 {
-                    title: 'What is Mixed Reality?',
-                    authors: ['M. Speicher', 'B.D. Hall', 'M. Nebeling'],
-                    link: 'https://2008.maxspeicher.com/2019/12/27/chi-2019-what-is-mixed-reality/',
-                    award: '🏅 Best Paper Honorable Mention'
-                },
+                    title: 'Using Generative Art from Brain Signals for Enabling Self Expression in the Differently Abled',
+                    authors: ['A. Sharma', 'A. Kushagra'],
+                    link: 'https://osf.io/nf3cr',
+                    award: 'OSF Preprints. 2022'
+                },                
                 {
                     title: 'XD-AR: Challenges and Opportunities in Cross-Device Augmented Reality Application Development',
                     authors: ['M. Speicher', 'B.D. Hall', 'A. Yu', 'B. Zhang', 'H. Zhang', 'J. Nebeling', 'M. Nebeling'],
