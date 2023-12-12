@@ -63,12 +63,12 @@ const MAX = {
             }
         ],
         research: {
-            highlightAuthor: 'M. Speicher',
+            highlightAuthor: 'A. Sharma',
             publications: [
                 {
-                    title: 'Designers, the Stage Is Yours! Medium-Fidelity Prototyping of Augmented & Virtual Reality Interfaces with 360theater',
-                    authors: ['M. Speicher', 'K. Lewis', 'M. Nebeling'],
-                    link: 'https://dl.acm.org/doi/10.1145/3461727'
+                    title: 'The Good, the Bad and the Ugly: An Open Image Dataset for Automated Sorting of Good, Bad, and Imperfect Produce.',
+                    authors: ['A. Sharma', 'V. Kumar', 'L. Musunur'],
+                    link: 'https://osf.io/epwq9'       
                 },
                 {
                     title: 'MRAT: The Mixed Reality Analytics Toolkit',
