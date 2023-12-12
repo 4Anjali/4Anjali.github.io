@@ -103,7 +103,7 @@ const MAX = {
                 title: 'So, How _Can_ We Measure UX?',
                 publication: 'ACM Interactions',
                 link: 'https://interactions.acm.org/blog/view/so-how-ican-i-we-measure-ux'
-            },
+            }/*,
             {
                 title: 'Beyond form and function: Design is poetry',
                 publication: 'DOC',
@@ -124,11 +124,11 @@ const MAX = {
                 publication: 'ACM Interactions',
                 link: 'https://interactions.acm.org/archive/view/march-april-2022/we-need-to-get-rid-of-significance-in-a-b-testing-seriously'
             },
-            /*{
+            {
                 title: 'Conversion rate & average order value are not UX metrics',
                 publication: 'UX Collective',
                 link: 'https://uxdesign.cc/conversion-rate-average-order-value-are-not-ux-metrics-9d6e7e40e286'
-            },*/
+            },
             {
                 title: 'Growth Marketing Considered Harmful',
                 publication: 'i-com ‒ Journal of Interactive Media',
@@ -138,7 +138,7 @@ const MAX = {
                 title: 'KPI-centered design',
                 publication: 'UX Collective',
                 link: 'https://uxdesign.cc/kpi-centered-design-8d1f4e231a5'
-            },*/
+            },
             {
                 title: 'How to become a UX designer — no matter what you studied at uni',
                 publication: 'The Next Web',
@@ -153,7 +153,7 @@ const MAX = {
                 title: 'How usability impacts profit: The Conversion/Usability Framework',
                 publication: 'UX Collective',
                 link: 'https://uxdesign.cc/the-conversion-usability-framework-3e2068edebbc'
-            },*/
+            },
             {
                 title: 'On Design Thinking',
                 publication: 'The UX Blog',
@@ -170,8 +170,8 @@ const MAX = {
                 title: 'The Mirrored Sky',
                 publication: 'The Orchards Poetry Journal',
                 // isNew: true,
-                link: 'https://tinyurl.com/msTopjTms'
-            },
+                link: 'ToBeChanged'
+            }/*,
             {
                 title: '6 Poems',
                 publication: 'The Magnolia Review',
@@ -222,7 +222,7 @@ const MAX = {
                 title: 'Four Stars',
                 publication: 'Impspired',
                 link: 'https://tiny.one/cfcftrrp'
-            }
+            }*/
         ],
         openSource: [
             {
