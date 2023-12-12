@@ -259,69 +259,14 @@ const MAX = {
         ],
         ringtennis: [
             {
-                when: '2010‒18',
-                title: 'Men\'s Captain',
-                discipline: 'Germany National Ringtennis Team'
-            },
-            {
                 when: '2003‒10',
-                title: 'Coach',
-                discipline: 'VfL Wehbach 1901 e. V.'
+                title: 'Xyx',
+                discipline: 'Placeholder'
             },
             {
                 when: '2023',
-                title: '🏆 World Champion',
-                discipline: 'Team'
-            },
-            {
-                when: '2018',
-                title: '🏆 World Champion',
-                discipline: 'Team'
-            },
-            {
-                when: '2016',
-                title: '🏅 German Champion',
-                discipline: 'Men\'s Doubles'
-            },
-            {
-                when: '2014',
-                title: '🏅 German Champion',
-                discipline: 'Men\'s Doubles'
-            },
-            {
-                when: '2014',
-                title: '🏆 World Champion',
-                discipline: 'Team'
-            },
-            {
-                when: '2011',
-                title: '🏅 German Champion',
-                discipline: 'Men\'s Doubles'
-            },
-            {
-                when: '2010',
-                title: '🏆 World Champion',
-                discipline: 'Men\'s Doubles'
-            },
-            {
-                when: '2008',
-                title: '🏅 German Champion',
-                discipline: 'Men\'s Singles'
-            },
-            {
-                when: '2007',
-                title: '🏅 German Champion',
-                discipline: 'Mixed Doubles'
-            },
-            {
-                when: '2006',
-                title: '🏆 World Champion',
-                discipline: 'Team'
-            },
-            {
-                when: '2006',
-                title: '🏆 World Champion',
-                discipline: 'Men\'s Doubles'
+                title: '🏆 Xyz',
+                discipline: 'Placeholder'
             }
         ]
     },
