@@ -61,11 +61,11 @@ const MAX = {
         },
         work: [
             {
-                when: ['09/21', 'present'],
-                where: 'BestSecret Group',
-                what: ['Director of Product Design'],
-                link: 'http://www.bestsecret.com/'
-            },
+                when: ['10/19', 'present'],
+                where: 'LIME Lab Low Profit LLC',
+                what: ['CEO and Co-Founder'],
+                link: 'http://www.limelab.org/'
+            }/*,
             {
                 when: ['10/18', '08/21'],
                 where: 'C&A',
@@ -89,7 +89,7 @@ const MAX = {
                 where: 'Unister',
                 what: ['Researcher', 'Ph.D. Student'],
                 link: 'https://web.archive.org/web/20130215000000*/http://www.bluekiwi.de/'
-            }
+            }*/
         ],
    
         writing: [
@@ -228,7 +228,7 @@ const MAX = {
             {
                 title: 'This Website Template',
                 link: 'https://github.com/maxspeicher/maxspeicher.github.io'
-            },
+            }/*,
             {
                 title: 'MaxSpeicher.com',
                 multipleLinks: {
@@ -255,7 +255,7 @@ const MAX = {
             {
                 title: 'Search Interaction Optimization (my Ph.D. thesis)',
                 link: 'https://www.maxspeicher.com/phdthesis'
-            }
+            }*/
         ],
         ringtennis: [
             {
