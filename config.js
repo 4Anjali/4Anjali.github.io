@@ -72,11 +72,11 @@ const MAX = {
                     award: 'Under Second Round Review at Sustainability Journal'
                 },
                 {
-                    title: 'MRAT: The Mixed Reality Analytics Toolkit',
-                    authors: ['M. Nebeling', 'M. Speicher', 'X. Wang', 'S. Rajaram', 'B.D. Hall', 'Z. Xie', 'A.R.E. Raistrick', 'M. Aebersold', 'E.G. Happ', 'J. Wang', 'Y. Sun', 'L. Zhang', 'L. Ramsier', 'R. Kulkarni'],
-                    link: 'https://www.mi2lab.com/research/mrat/',
-                    award: '🏆 Best Paper Award'
-                },
+                    title: 'Online Appendix to Imperfect Foods Paper-list of Articles from Literature Review',
+                    authors: ['A. Sharma'],
+                    link: 'https://osf.io/m5tyw',
+                    award: 'OSF Preprints. 2023'
+                },            
                 {
                     title: 'What is Mixed Reality?',
                     authors: ['M. Speicher', 'B.D. Hall', 'M. Nebeling'],
