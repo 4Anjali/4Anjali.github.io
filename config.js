@@ -82,33 +82,13 @@ const MAX = {
                     authors: ['A. Sharma', 'A. Kushagra'],
                     link: 'https://osf.io/nf3cr',
                     award: 'OSF Preprints. 2022'
-                },                
-                {
-                    title: 'XD-AR: Challenges and Opportunities in Cross-Device Augmented Reality Application Development',
-                    authors: ['M. Speicher', 'B.D. Hall', 'A. Yu', 'B. Zhang', 'H. Zhang', 'J. Nebeling', 'M. Nebeling'],
-                    link: 'https://dl.acm.org/doi/abs/10.1145/3229089',
-                    award: '🏆 Best Paper Award'
                 },
                 {
-                    title: 'GestureWiz: A Human-Powered Gesture Design Environment for User Interface Prototypes',
-                    authors: ['M. Speicher', 'M. Nebeling'],
-                    link: 'https://dl.acm.org/doi/abs/10.1145/3173574.3173681'
-                },
-                {
-                    title: 'Search Interaction Optimization: A Human-Centered Design Approach',
-                    authors: ['M. Speicher'],
-                    link: 'https://2008.maxspeicher.com/2015/10/29/the-search-interaction-optimization-toolkit-the-essence-of-my-phd-thesis/'
-                },
-                {
-                    title: '§Inuit§: The Interface Usability Instrument',
-                    authors: ['M. Speicher', 'A. Both', 'M. Gaedke'],
-                    link: 'https://2008.maxspeicher.com/2015/10/10/inuit-the-interface-usability-instrument/'
-                },
-                {
-                    title: 'Ensuring Web Interface Quality through Usability-Based Split Testing',
-                    authors: ['M. Speicher', 'A. Both', 'M. Gaedke'],
-                    link: 'https://2008.maxspeicher.com/2014/06/17/usability-based-split-testing-or-how-to-infer-web-interface-usability-from-user-interactions/'
-                }
+                    title: 'Artificial Intelligence and Robotics for Reducing Waste in the Food Supply Chain: Systematic Literature Review,Theoretical Framework, and Research Agenda',
+                    authors: ['A. Sharma', 'P.V. Singh', 'L.P. Musunur'],
+                    link: 'https://osf.io/7kbu3',
+                    award: 'OSF Preprints. 2023'
+                } 
             ]
         },
         writing: [
