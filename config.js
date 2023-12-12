@@ -7,7 +7,7 @@ const MAX = {
 
     header: {
         title: {
-            content: '{M}ax. {S}peicher', // pick TWO letters that should be rotated on hover via {x}
+            content: '{A}njali. {S}harma', // pick TWO letters that should be rotated on hover via {x}
             href: 'index.html'
         },
         menu: [
