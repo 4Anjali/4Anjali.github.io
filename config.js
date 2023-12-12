@@ -67,7 +67,7 @@ const MAX = {
             publications: [
                 {
                     title: 'The Good, the Bad and the Ugly: An Open Image Dataset for Automated Sorting of Good, Bad, and Imperfect Produce.',
-                    authors: ['A. Sharma', 'V. Kumar', 'L. Musunur'],
+                    authors: ['A. Sharma', 'Dr. V. Kumar', 'Dr. L.P. Musunur'],
                     link: 'https://osf.io/epwq9',
                     award: 'Under Second Round Review at Sustainability Journal'
                 },
@@ -85,7 +85,7 @@ const MAX = {
                 },
                 {
                     title: 'Artificial Intelligence and Robotics for Reducing Waste in the Food Supply Chain: Systematic Literature Review,Theoretical Framework, and Research Agenda',
-                    authors: ['A. Sharma', 'P.V. Singh', 'L.P. Musunur'],
+                    authors: ['A. Sharma', 'Dr. P.V. Singh', 'Dr. L.P. Musunur'],
                     link: 'https://osf.io/7kbu3',
                     award: 'OSF Preprints. 2023'
                 } 
