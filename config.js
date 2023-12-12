@@ -68,7 +68,8 @@ const MAX = {
                 {
                     title: 'The Good, the Bad and the Ugly: An Open Image Dataset for Automated Sorting of Good, Bad, and Imperfect Produce.',
                     authors: ['A. Sharma', 'V. Kumar', 'L. Musunur'],
-                    link: 'https://osf.io/epwq9'       
+                    link: 'https://osf.io/epwq9',
+                    award: 'Under Second Round Review at Sustainability Journal'
                 },
                 {
                     title: 'MRAT: The Mixed Reality Analytics Toolkit',
