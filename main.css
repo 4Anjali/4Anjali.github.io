@@ -1,9 +1,14 @@
 :root {
+
     --background: #ffffff;
+    --foreground: #000003;
+    --highlight: #fff203;
+
+    /*--background: #ffffff;
     --foreground: #fdc702;
     --highlight: #fff203;
 
-    /*--background: #74DAC6;
+    --background: #74DAC6;
     --foreground: #333366;
     --highlight: #fff203;*/
 
