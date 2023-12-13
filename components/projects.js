@@ -35,4 +35,4 @@ class Poetry extends React.Component {
     }
 }
 
-ReactDOM.render(e(Poetry), document.querySelector('#projects'));
+ReactDOM.render(e(Poetry), document.querySelector('#poetry'));
