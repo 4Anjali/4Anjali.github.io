@@ -52,6 +52,7 @@ class Research extends React.Component {
                 e('a', { href: 'https://scholar.google.com/citations?user=SyfcqmcAAAAJ&hl=en', target: '_blank'},
                 e('i', { className: 'fas fa-graduation-cap' }),
                     ' Google Scholar'
+                    
                 )
             )
         );
