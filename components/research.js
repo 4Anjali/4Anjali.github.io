@@ -49,7 +49,7 @@ class Research extends React.Component {
             ...entries,
             e('p', null,
                 e('span', { className: 'lighter' } , 'More on '),
-                e('a', { href: 'https://scholar.google.com/citations?user=uHCRUlQAAAAJ&hl=en', target: '_blank'},
+                e('a', { href: 'https://scholar.google.com/citations?user=SyfcqmcAAAAJ&hl=en', target: '_blank'},
                 e('i', { className: 'fas fa-graduation-cap' }),
                     ' Google Scholar'
                 )
