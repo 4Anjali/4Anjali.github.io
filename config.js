@@ -268,6 +268,22 @@ const MAX = {
             },
 
             {
+                when: '2003‒10',
+                title: 'Food Bank App',
+                description: 'Built an app for easy finding of food banks and food items by Detroiters.',
+                discipline: 'App Development, UX/UI Design, Frontend Development, Backend Development, Database Design, Geo Visualization',
+                locations: 'Project Location:  Detroit.'       
+            },
+
+            {
+                when: '2003‒10',
+                title: 'Safe Map',
+                description: 'Built an app for mapping safe zones in city of Detroit using crowdsourced data from wearables of citizen scientists.',
+                discipline: 'App Development, UX/UI Design, Frontend Development, Backend Development, Database Design, Geo Visualization, Crowdsourcing, Brain Computer Interface, Wearables, Machine Learning, AI, Data Science',
+                locations: 'Project Location:  Detroit.'       
+            },
+
+            {
                 when: '2023',
                 title: '🏆 Xyz',
                 discipline: 'Placeholder'
