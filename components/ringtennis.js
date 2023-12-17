@@ -8,8 +8,9 @@ class Ringtennis extends React.Component {
         for (var i=0; i<victories.length; ++i) {
             entries.push(
                 e('p', null,
-                    e('span', { className: 'block tertiary' }, victories[i].when),
                     e('span', { className: 'margin-right--inline'}, victories[i].title),
+                    e('span', { className: 'block tertiary' }, victories[i].when),
+                    e('span', { className: 'secondary' }, victories[i].description),
                     e('span', { className: 'secondary' }, victories[i].discipline),
                     e('span', { className: 'block tertiary' }, victories[i].locations)
                 )

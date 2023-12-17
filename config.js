@@ -261,10 +261,12 @@ const MAX = {
         ringtennis: [
             {
                 when: '2003‒10',
-                title: 'Xyx',
-                discipline: 'Placeholder',
-                locations: 'Detroit, Pune'
+                title: 'Solve Hunger',
+                description: 'This project is focused on creating new ways to solve for hunger.',
+                discipline: 'Robotics, AI, Drones',
+                locations: 'Project Location:  Detroit, Patna.'       
             },
+
             {
                 when: '2023',
                 title: '🏆 Xyz',
