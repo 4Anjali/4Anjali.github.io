@@ -80,7 +80,7 @@ const MAX = {
                 },    
                 {
                     title: 'Using Generative Art from Brain Signals for Enabling Self Expression in the Differently Abled',
-                    authors: ['A. Sharma', 'A. Kushagra'],
+                    authors: ['A. Sharma', 'Dr. P.V. Singh'],
                     link: 'https://osf.io/nf3cr',
                     award: 'OSF Preprints. 2022'
                 },

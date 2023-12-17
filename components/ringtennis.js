@@ -10,7 +10,7 @@ class Ringtennis extends React.Component {
                 e('p', null,
                     e('span', { className: 'margin-right--inline'}, victories[i].title),
                     e('span', { className: 'block tertiary' }, victories[i].when),
-                    e('span', { className: 'secondary' }, victories[i].description),
+                    e('span', { className: 'margin-right--inline'}, victories[i].description),
                     e('span', { className: 'block tertiary' }, victories[i].discipline),
                     e('span', { className: 'block tertiary' }, victories[i].locations)
                 )
