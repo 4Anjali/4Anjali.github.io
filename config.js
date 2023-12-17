@@ -262,7 +262,8 @@ const MAX = {
             {
                 when: '2003‒10',
                 title: 'Xyx',
-                discipline: 'Placeholder'
+                discipline: 'Placeholder',
+                locations: 'Detroit, Pune'
             },
             {
                 when: '2023',
