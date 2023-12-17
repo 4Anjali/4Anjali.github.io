@@ -285,7 +285,7 @@ const MAX = {
 
             {
                 when: '2023',
-                title: '🏆 Xyz',
+                title:'🏆 Xyz',
                 discipline: 'Placeholder'
             }
         ]
