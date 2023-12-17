@@ -1,4 +1,4 @@
-'use strict';
+.'use strict';
 
 class Ringtennis extends React.Component {
     render() {
